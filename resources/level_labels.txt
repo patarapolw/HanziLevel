@@ -1,0 +1,7 @@
+1-10 Pleasant
+11-20 Painful
+21-30 Death
+31-40 Hell
+41-50 Paradise
+51-60 Reality
+61-100 Infinity
